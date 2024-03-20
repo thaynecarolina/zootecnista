@@ -14,4 +14,4 @@ O Cartão de Visitas foi feito como um agregador de links para o Perfil Profissi
 
 ---
 
-Feito com ♥ by [iCoffeezin](https://github.com/iCoffeezin)
+Feito com ♥ by [tirsouza](https://github.com/tirsouza)
